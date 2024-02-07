@@ -37,6 +37,8 @@ body{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px black;
 }
 
 .lista-item__imagem{
